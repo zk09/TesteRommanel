@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\User.IO.Rommanel.Application\User.IO.Rommanel.Application.csproj" />
+    <ProjectReference Include="..\User.IO.Rommanel.Domain\User.IO.Rommanel.Domain.csproj" />
+    <ProjectReference Include="..\User.IO.Rommanel.Infra.Data\User.IO.Rommanel.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

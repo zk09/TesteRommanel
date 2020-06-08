@@ -1,0 +1,15 @@
+D:\Labs\TesteConfitec\src\User.IO.Confitec.Domain.Core\bin\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.deps.json
+D:\Labs\TesteConfitec\src\User.IO.Confitec.Domain.Core\bin\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.dll
+D:\Labs\TesteConfitec\src\User.IO.Confitec.Domain.Core\bin\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.pdb
+D:\Labs\TesteConfitec\src\User.IO.Confitec.Domain.Core\obj\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.AssemblyInfoInputs.cache
+D:\Labs\TesteConfitec\src\User.IO.Confitec.Domain.Core\obj\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.AssemblyInfo.cs
+D:\Labs\TesteConfitec\src\User.IO.Confitec.Domain.Core\obj\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.dll
+D:\Labs\TesteConfitec\src\User.IO.Confitec.Domain.Core\obj\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.pdb
+D:\Labs\TesteConfitec\BackEnd\src\User.IO.Confitec.Domain.Core\bin\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.deps.json
+D:\Labs\TesteConfitec\BackEnd\src\User.IO.Confitec.Domain.Core\bin\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.dll
+D:\Labs\TesteConfitec\BackEnd\src\User.IO.Confitec.Domain.Core\bin\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.pdb
+D:\Labs\TesteConfitec\BackEnd\src\User.IO.Confitec.Domain.Core\obj\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.csprojAssemblyReference.cache
+D:\Labs\TesteConfitec\BackEnd\src\User.IO.Confitec.Domain.Core\obj\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.AssemblyInfoInputs.cache
+D:\Labs\TesteConfitec\BackEnd\src\User.IO.Confitec.Domain.Core\obj\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.AssemblyInfo.cs
+D:\Labs\TesteConfitec\BackEnd\src\User.IO.Confitec.Domain.Core\obj\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.dll
+D:\Labs\TesteConfitec\BackEnd\src\User.IO.Confitec.Domain.Core\obj\Debug\netstandard2.0\User.IO.Confitec.Domain.Core.pdb

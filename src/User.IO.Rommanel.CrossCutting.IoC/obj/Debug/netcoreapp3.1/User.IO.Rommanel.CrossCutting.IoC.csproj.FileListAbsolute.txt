@@ -1,0 +1,17 @@
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\bin\Debug\netcoreapp3.1\User.IO.Rommanel.CrossCutting.IoC.deps.json
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\bin\Debug\netcoreapp3.1\User.IO.Rommanel.CrossCutting.IoC.dll
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\bin\Debug\netcoreapp3.1\User.IO.Rommanel.CrossCutting.IoC.pdb
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Application.dll
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Domain.Core.dll
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Domain.dll
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Infra.Data.dll
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Application.pdb
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Domain.pdb
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Infra.Data.pdb
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Domain.Core.pdb
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\obj\Debug\netcoreapp3.1\User.IO.Rommanel.CrossCutting.IoC.csprojAssemblyReference.cache
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\obj\Debug\netcoreapp3.1\User.IO.Rommanel.CrossCutting.IoC.AssemblyInfoInputs.cache
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\obj\Debug\netcoreapp3.1\User.IO.Rommanel.CrossCutting.IoC.AssemblyInfo.cs
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\obj\Debug\netcoreapp3.1\User.IO.Rommanel.CrossCutting.IoC.csproj.CopyComplete
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\obj\Debug\netcoreapp3.1\User.IO.Rommanel.CrossCutting.IoC.dll
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.CrossCutting.IoC\obj\Debug\netcoreapp3.1\User.IO.Rommanel.CrossCutting.IoC.pdb

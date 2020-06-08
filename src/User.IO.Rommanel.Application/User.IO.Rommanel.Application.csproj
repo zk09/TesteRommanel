@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\User.IO.Rommanel.Domain.Core\User.IO.Rommanel.Domain.Core.csproj" />
+    <ProjectReference Include="..\User.IO.Rommanel.Domain\User.IO.Rommanel.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

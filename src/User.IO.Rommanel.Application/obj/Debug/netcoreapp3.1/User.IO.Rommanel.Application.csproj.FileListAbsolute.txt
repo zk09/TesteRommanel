@@ -1,0 +1,13 @@
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Application.deps.json
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Application.dll
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Application.pdb
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Domain.Core.dll
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Domain.dll
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Domain.Core.pdb
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\bin\Debug\netcoreapp3.1\User.IO.Rommanel.Domain.pdb
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\obj\Debug\netcoreapp3.1\User.IO.Rommanel.Application.csprojAssemblyReference.cache
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\obj\Debug\netcoreapp3.1\User.IO.Rommanel.Application.AssemblyInfoInputs.cache
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\obj\Debug\netcoreapp3.1\User.IO.Rommanel.Application.AssemblyInfo.cs
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\obj\Debug\netcoreapp3.1\User.IO.Rommanel.Application.csproj.CopyComplete
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\obj\Debug\netcoreapp3.1\User.IO.Rommanel.Application.dll
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Application\obj\Debug\netcoreapp3.1\User.IO.Rommanel.Application.pdb

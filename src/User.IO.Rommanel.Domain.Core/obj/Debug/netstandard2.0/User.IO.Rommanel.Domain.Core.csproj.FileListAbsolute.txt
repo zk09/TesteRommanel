@@ -1,0 +1,7 @@
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Domain.Core\bin\Debug\netstandard2.0\User.IO.Rommanel.Domain.Core.deps.json
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Domain.Core\bin\Debug\netstandard2.0\User.IO.Rommanel.Domain.Core.dll
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Domain.Core\bin\Debug\netstandard2.0\User.IO.Rommanel.Domain.Core.pdb
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Domain.Core\obj\Debug\netstandard2.0\User.IO.Rommanel.Domain.Core.AssemblyInfoInputs.cache
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Domain.Core\obj\Debug\netstandard2.0\User.IO.Rommanel.Domain.Core.AssemblyInfo.cs
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Domain.Core\obj\Debug\netstandard2.0\User.IO.Rommanel.Domain.Core.dll
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Domain.Core\obj\Debug\netstandard2.0\User.IO.Rommanel.Domain.Core.pdb

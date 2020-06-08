@@ -1,0 +1,4 @@
+D:\Labs\TesteConfitec\src\User.IO.Confitec.CrossCutting.IoC\bin\Debug\netstandard2.0\User.IO.Confitec.CrossCutting.IoC.deps.json
+D:\Labs\TesteConfitec\src\User.IO.Confitec.CrossCutting.IoC\bin\Debug\netstandard2.0\User.IO.Confitec.CrossCutting.IoC.dll
+D:\Labs\TesteConfitec\src\User.IO.Confitec.CrossCutting.IoC\obj\Debug\netstandard2.0\User.IO.Confitec.CrossCutting.IoC.AssemblyInfoInputs.cache
+D:\Labs\TesteConfitec\src\User.IO.Confitec.CrossCutting.IoC\obj\Debug\netstandard2.0\User.IO.Confitec.CrossCutting.IoC.AssemblyInfo.cs
