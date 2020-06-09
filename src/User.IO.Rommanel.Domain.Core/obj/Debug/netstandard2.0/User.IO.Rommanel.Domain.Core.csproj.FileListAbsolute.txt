@@ -5,3 +5,4 @@ D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Domain.Core\obj\Debug\netstan
 D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Domain.Core\obj\Debug\netstandard2.0\User.IO.Rommanel.Domain.Core.AssemblyInfo.cs
 D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Domain.Core\obj\Debug\netstandard2.0\User.IO.Rommanel.Domain.Core.dll
 D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Domain.Core\obj\Debug\netstandard2.0\User.IO.Rommanel.Domain.Core.pdb
+D:\Labs\TesteRommanel\BackEnd\src\User.IO.Rommanel.Domain.Core\obj\Debug\netstandard2.0\User.IO.Rommanel.Domain.Core.csprojAssemblyReference.cache

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
 using System;
+using System.Linq;
 using System.Threading.Tasks;
 using User.IO.Rommanel.API.ResultSet;
 using User.IO.Rommanel.Application.Interfaces;
@@ -32,19 +32,28 @@ namespace User.IO.Rommanel.API.Controllers
 
                 if (OperacaoValida() && user)
                 {
-                 
                     _methodResult.AddResult(user.ToString(), "Usuário registrado com sucesso!");
 
-                    return Ok(JsonConvert.SerializeObject(_methodResult.Notifications));
+                    return Ok(new
+                    {
+                        success = true,
+                        data = _methodResult.Notifications.Select(n => n.Message)
+                    });    
                 }
 
                 return BadRequest();
+            
             }
             catch (Exception e)
             {
-                _methodResult.AddResult("500", e.Message);
 
-                return BadRequest(JsonConvert.SerializeObject(_methodResult.Notifications));
+                var result = new
+                {
+                    success = false,
+                    errors = e.Message
+                };
+
+                return BadRequest(result);
             }
         }
 
@@ -60,7 +69,11 @@ namespace User.IO.Rommanel.API.Controllers
 
                     _methodResult.AddResult(user.ToString(), "Usuário alterado com sucesso!");
 
-                    return Ok(JsonConvert.SerializeObject(_methodResult.Notifications));
+                    return Ok(new
+                    {
+                        success = true,
+                        data = _methodResult.Notifications.Select(n => n.Message)
+                    });
                 }
 
                 return BadRequest();
@@ -69,9 +82,14 @@ namespace User.IO.Rommanel.API.Controllers
             catch (Exception e)
             {
 
-                _methodResult.AddResult("500", e.Message);
 
-                return BadRequest(JsonConvert.SerializeObject(_methodResult.Notifications));
+                var result = new
+                {
+                    success = false,
+                    errors = e.Message
+                };
+
+                return BadRequest(result);
             }
         }
 
@@ -87,7 +105,11 @@ namespace User.IO.Rommanel.API.Controllers
                 {
                     _methodResult.AddResult(user.ToString(), "Usuário deletado com sucesso!");
 
-                    return Ok(JsonConvert.SerializeObject(_methodResult.Notifications));
+                    return Ok(new
+                    {
+                        success = true,
+                        data = _methodResult.Notifications.Select(n => n.Message)
+                    });
                 }
 
                 return BadRequest();
@@ -96,9 +118,14 @@ namespace User.IO.Rommanel.API.Controllers
             catch (Exception e)
             {
 
-                _methodResult.AddResult("500", e.Message);
 
-                return BadRequest(JsonConvert.SerializeObject(_methodResult.Notifications));
+                var result = new
+                {
+                    success = false,
+                    errors = e.Message
+                };
+
+                return BadRequest(result);
             }
         }
 
@@ -109,15 +136,25 @@ namespace User.IO.Rommanel.API.Controllers
             {
                 var user = await _userAppService.GetAll();
 
-                return Ok(JsonConvert.SerializeObject(user));
+                return Ok(new
+                {
+                    success = true,
+                    data = user
+                });
+
 
             }
             catch(Exception e)
             {
 
-                _methodResult.AddResult("500", e.Message);
 
-                return BadRequest(JsonConvert.SerializeObject(_methodResult.Notifications));
+                var result = new
+                {
+                    success = false,
+                    errors = e.Message
+                };
+
+                return BadRequest(result);
             }
 
         }
@@ -129,15 +166,25 @@ namespace User.IO.Rommanel.API.Controllers
             {
                 var user = await _userAppService.GetById(id);
 
-                return Ok(JsonConvert.SerializeObject(user));
+
+                return Ok(new
+                {
+                    success = true,
+                    data = user
+                });
 
             }
 
             catch (Exception e)
             {
-                _methodResult.AddResult("500", e.Message);
 
-                return BadRequest(JsonConvert.SerializeObject(_methodResult.Notifications));
+                var result = new
+                {
+                    success = false,
+                    errors = e.Message
+                };
+
+                return BadRequest(result);
             }
 
         }

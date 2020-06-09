@@ -32,10 +32,13 @@ namespace User.IO.Rommanel.Domain.Users.CommandHandler
         
             if (!UserValid(user))
             {
+
+                ExistCpfAndEmail(user, request.Messagetype);
+
                 return false;
             }
 
-            if (ExistCpf(user,request.Messagetype))
+            if (ExistCpfAndEmail(user,request.Messagetype))
             {
                 return false;
             }
@@ -53,13 +56,24 @@ namespace User.IO.Rommanel.Domain.Users.CommandHandler
 
         }
 
-        private bool ExistCpf(User user, string messageType)
+        private bool ExistCpfAndEmail(User user, string messageType)
         {
-            var baseUser = _userRepository.Search(x => x.Cpf.Equals(user.Cpf)).ToList();
+            var baseUserCPF = _userRepository.Search(x => x.Cpf.Equals(user.Cpf)).ToList();
+            var baseUserEmail = _userRepository.Search(x => x.Email.Equals(user.Email)).ToList();
 
-            if (baseUser.Any())
+            if (baseUserCPF.Any())
             {
                 _notificationContext.AddNotification(messageType,"CPF já cadastrado no sistema!");
+                
+            }
+
+            if (baseUserEmail.Any())
+            {
+                _notificationContext.AddNotification(messageType, "Email já cadastrado no sistema!");
+            }
+
+            if (_notificationContext.HasNotifications)
+            {
                 return true;
             }
 
